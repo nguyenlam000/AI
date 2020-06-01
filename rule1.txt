@@ -1,0 +1,14 @@
+Q1 : Sở thích của bạn :
+Q1A : khoa học - công nghệ : (R1A , R1C)
+Q1B : kỹ thuật -cơ khí - ( R1E , R1F,R1D)
+Q1C : kinh doanh ( R1B, R1G )
+
+Q2 : khả năng chi trả học phí 
+Q2A : tốt ( R4A, R4B, R4C,R4D )
+Q2B : trung bình ( R4A, R4B, R4C )
+Q2C : khó khăn ( R4A, R4B )
+
+Q3 : cơ hội học bổng 
+R5A : dễ 
+R5B : trung bình
+R5C :khó
